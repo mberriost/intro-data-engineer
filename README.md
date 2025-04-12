@@ -1,1 +1,1 @@
-This are exercise from the course Introduction to Data Engineer in DataCamp
+These are exercises from the course Introduction to Data Engineering in DataCamp
